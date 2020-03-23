@@ -1,4 +1,4 @@
-Round Number,Date,Location,Home Team,Away Team,Result,Result
+round_number,date,location,home_team,away_team,result,win_odd
 1,11/10/2019 08:30,Coopers Stadium,Adelaide United,Sydney FC,2 - 3,1
 1,12/10/2019 06:00,Bankwest Stadium,Western Sydney Wanderers FC,Central Coast Mariners,2 - 1,1
 1,12/10/2019 08:30,Marvel Stadium,Melbourne Victory,Melbourne City FC,0 - 0,0
